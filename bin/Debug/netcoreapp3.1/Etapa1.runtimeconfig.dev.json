@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\crisa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\crisa\\.nuget\\packages"
+    ]
+  }
+}
